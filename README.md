@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Spring Boot
 - 💬 Ask me about anything tech related!
 - 📚 In my free time I love to learn about investments and finance
-- 📫 Feel free to ping me on [LinkedIn](https://linkedin.com/alexvloure)
+- 📫 Feel free to ping me on [LinkedIn](https://linkedin.com/in/alexvloure)
 
 <h2 align="center">
   My Github Stats
