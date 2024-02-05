@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
+<p>I'm alexvloure, a frontend dev with a strong focus in React. Recently delving into backend technologies to achieve a T shaped profile 😁</p>
 
-<!--
-**alexvloure/alexvloure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at DEUS.ai
+- 🌱 I’m currently learning Spring Boot
+- 💬 Ask me about anything tech related!
+- 📚 In my free time I love to learn about investments and finance
+- 📫 Feel free to ping me on [LinkedIn](https://linkedin.com/alexvloure)
 
-Here are some ideas to get you started:
+<h2 align="center">
+  My Github Stats
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexvloure&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvloure&layout=compact&theme=radical">
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexvloure&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
