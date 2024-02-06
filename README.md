@@ -14,6 +14,6 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alexvloure&show_icons=true&theme=radical">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexvloure&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexvloure&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexvloure&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
