@@ -14,6 +14,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexvloure&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexvloure&show_icons=true&locale=en&layout=compact&theme=transparent&&hide_border=true&line_height=0" width="41.75%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexvloure&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&text_color=7d8590" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexvloure&show_icons=true&locale=en&layout=compact&theme=transparent&&hide_border=true&line_height=0&text_color=7d8590" width="41.75%" />
 </p>
