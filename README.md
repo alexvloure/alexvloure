@@ -14,6 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexvloure&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&text_color=7d8590" width="55%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexvloure&show_icons=true&locale=en&layout=compact&theme=transparent&&hide_border=true&line_height=0&text_color=7d8590" width="41.75%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexvloure&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&text_color=7d8590" width="47.3%">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexvloure&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&line_height=0&text_color=7d8590" width="41.75%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexvloure&show_icons=true&locale=en&layout=compact&theme=transparent&line_height=0&hide_border=true&dates=7d8590&currStreakLabel=036AFF&currStreakNum=036AFF" width="50%" />
 </p>
