@@ -1,7 +1,7 @@
 <h2>Hi there 👋</h2>
 <p>I'm alexvloure, a frontend dev with a strong focus in React. Recently delving into backend technologies to achieve a T shaped profile 😁</p>
 
-- 🔭 I’m currently working at MCA | Inditex
+- 🔭 I’m currently working at Kelea | Inditex
 - 🌱 I’m currently learning Spring Boot
 - 💬 Ask me about anything tech related!
 - 📚 In my free time I love to learn about investments and finance
