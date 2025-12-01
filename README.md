@@ -2,7 +2,7 @@
 <p>I'm alexvloure, a frontend dev with a strong focus in React. Recently delving into backend technologies to achieve a T shaped profile 😁</p>
 
 - 🔭 I’m currently working at Kelea | Inditex
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Nest.js
 - 💬 Ask me about anything tech related!
 - 📚 In my free time I love to learn about investments and finance
 - 📫 Feel free to ping me on [LinkedIn](https://linkedin.com/in/alexvloure)
