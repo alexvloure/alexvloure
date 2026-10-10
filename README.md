@@ -1,8 +1,7 @@
 <h2>Hi there 👋</h2>
-<p>I'm alexvloure, a frontend dev with a strong focus in React. Recently delving into backend technologies to achieve a T shaped profile 😁</p>
+<p>I'm alexvloure, a software engineer with a strong focus in frontend.</p>
 
-- 🔭 I’m currently working at Kelea | Inditex
-- 🌱 I’m currently learning Nest.js
+- 🔭 I’m currently working at Deel
 - 💬 Ask me about anything tech related!
 - 📚 In my free time I love to learn about investments and finance
 - 📫 Feel free to ping me on [LinkedIn](https://linkedin.com/in/alexvloure)
